@@ -1,0 +1,7 @@
+# Robot.txt for TCO Calculator
+
+User-agent: *
+Allow: /
+
+# Sitemap location (Update the URL below once you deploy)
+Sitemap: https://your-website-url.com/sitemap.xml
